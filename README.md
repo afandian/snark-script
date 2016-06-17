@@ -2,7 +2,7 @@
 
 The text of the hunting of the snark, marked up into dialogue parts. A script to render out a number of scripts with various parts highlighted for communal fun. Ready made output in `demo` directory.
 
-!(screenshot.png)
+![](https://raw.githubusercontent.com/afandian/snark-script/master/screenshot.png)
 
 Firefox will print these out with two columns to a page nicely. Chrome and Safari won't.
 
