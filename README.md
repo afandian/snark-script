@@ -4,6 +4,8 @@ The text of the hunting of the snark, marked up into dialogue parts. A script to
 
 !(screenshot.png)
 
+Firefox will print these out with two columns to a page nicely. Chrome and Safari won't.
+
 ## To reprocess
 
 Or make tweaks and re-render. Install GPP Generic Text Preprocessor (`brew install gpp` or `apt-get install gpp`) then run `./build.sh`. Output in `build` directory.
